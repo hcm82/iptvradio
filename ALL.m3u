@@ -6021,7 +6021,7 @@ http://39.134.65.86:80/wh7f454c46tw1791807411_-1987553314/ottrrs.hl.chinamobile.
 http://39.135.55.72:6610/PLTV/88888888/224/3221227083/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 group-title="自然人文",上海纪实
 http://39.135.55.105:6610/PLTV/88888888/224/3221225946/index.m3u8?servicetype=1
-#EXTM3U
+
 #EXTINF:-1 group-title="体育频道",山东体育广播 FM102.1
 http://ls.qingting.fm/live/60266.m3u8
 #EXTINF:-1 group-title="体育频道",CCTV-5体育
@@ -6854,7 +6854,7 @@ http://[2409:8087:6a01:1020::9]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226264/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="体育频道",爱体育
 http://111.40.196.32/0000000000001000/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTM3U
+
 #EXTINF:-1 group-title="足球",CCTV风云足球
 http://117.148.179.137/PLTV/88888888/224/3221231547/index.m3u8
 #EXTINF:-1 group-title="足球",魅力足球
@@ -6931,7 +6931,7 @@ http://117.148.179.137/PLTV/88888888/224/3221231547/index.m3u8#
 http://117.148.179.147/PLTV/88888888/224/3221231547/index.m3u8#
 #EXTINF:-1 group-title="足球",足球
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226240/index.m3u8
-#EXTM3U
+
 #EXTINF:-1 group-title="篮球",吉林篮球
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 #EXTINF:-1 group-title="篮球",篮球
