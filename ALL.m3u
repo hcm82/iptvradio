@@ -6013,3 +6013,11 @@ http://live.lxzc.net/channels/tvie/channel03/flv:500/live
 http://140.207.241.3:8080/live/program/live/qjshd/4000000/d1.m3u8
 #EXTINF:-1 group-title="自然人文",SiTV全纪实(备)
 http://140.207.241.3:8080/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="自然人文",上海纪实HD
+http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="自然人文",上海纪实
+http://39.134.65.86:80/wh7f454c46tw1791807411_-1987553314/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8?icpid=88888888&RTS=1554599564&from=1&hms_devid=129
+#EXTINF:-1 group-title="自然人文",全纪实
+http://39.135.55.72:6610/PLTV/88888888/224/3221227083/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="自然人文",上海纪实
+http://39.135.55.105:6610/PLTV/88888888/224/3221225946/index.m3u8?servicetype=1
