@@ -6940,3 +6940,781 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226243/index.m3
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 #EXTINF:-1 group-title="篮球",篮球
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226243/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="Sports",卡塔尔 Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 group-title="Sports",卡塔尔 Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 group-title="Sports",[阿曼]OmanSports
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Sports",Best Cable Sports Perú (720p) [Not 24/7]
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
+#EXTINF:-1 group-title="Sports",FOX SPORTS 2 HD(备)
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS F1 HD(备)
+http://93.152.174.144:4000/play/ssportsf1/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 1HD(备)
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/6131/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 1HD(备1)
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/6132/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS F1 HD(备)
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/10079/index.m3u8
+#EXTINF:-1 group-title="Sports",印尼-TVRISports
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Sports",DD Sports (576p)
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 group-title="Sports",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Sports",Dubai Sports (1080p)
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sports",Dubai Sports 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Sports",DUBAI SPORTS 1 (1080p)
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8
+#EXTINF:-1 group-title="Sports",Dubai Sports 1 (1080p)
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:-1 group-title="Sports",Dubai Sports 1 HD
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="Sports",DUBAI SPORTS 2 (1080p)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sports",Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8?
+#EXTINF:-1 group-title="Sports",Dubai Sports 2 (1080p)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 group-title="Sports",Dubai Sports 3 (1080p)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 group-title="Sports",fubo Sports Network (720p)
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
+#EXTINF:-1 group-title="Sports",Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8?2957056943
+#EXTINF:-1 group-title="Sports",SportsGrid
+https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Sports Grid
+https://sportsgrid-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5ef11485d33ab9004048a1ca/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/1280x720_2855600/index.m3u8
+#EXTINF:-1 group-title="Sports",巴林 Bahrain Sports 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Abu Dhabi Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1 group-title="Sports",Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1 group-title="Sports",Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1 group-title="Sports",Al Kass Sports 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 group-title="Sports",Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 group-title="Sports",Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 group-title="Sports",du bai sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Sports",du bai sports 2 hd
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Sports",DUBAI SPORTS
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sports",sports[1280*720]
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 group-title="Sports",Abu Dabi Sports 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Sports",Abu Dabi Sports 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Sports",All Sports (720p)
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Lax Sports Network TV (720p)
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:-1 group-title="Sports",KBP Sports (720p) [Not 24/7]
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Oman Sports TV (1080p) [Not 24/7]
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Sharjah Sports TV (1080p)
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Sports Tonight (576p) [Not 24/7]
+http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+#EXTINF:-1 group-title="Sports",TVS Classic Sports (360p)
+http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
+#EXTINF:-1 group-title="Sports",Adventure Sports Network (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
+#EXTINF:-1 group-title="Sports",Sports TV Plus (1080p)
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+#EXTINF:-1 group-title="Sports",SportsGrid (1080p)
+https://sportsgrid-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Sportswire (1080p)
+https://dai.google.com/linear/hls/event/8R__yZf7SR6yMb-oTXgbEQ/master.m3u8
+#EXTINF:-1 group-title="Sports",STIRR Whistle Sports (1080p)
+https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8
+#EXTINF:-1 group-title="Sports",USA TODAY Sportswire
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaysports-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=HJNpAsLWteW2_Q7vbySW&channelId=60df3e18541143002f3b8609
+#EXTINF:-1 group-title="Sports",TYC SPORTS PLAY
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
+#EXTINF:-1 group-title="Sports",SportsGrid
+https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=HJNpAsLWteW2_Q7vbySW&channelId=5ef11485d33ab9004048a1ca
+#EXTINF:-1 group-title="Sports",Sportsgrid
+https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Sports
+https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 group-title="Sports",Sky Sports 4
+http://93.152.174.144:4000/play/skysports4/index.m3u8
+#EXTINF:-1 group-title="Sports",Sky Sports 3
+http://93.152.174.144:4000/play/skysports3/index.m3u8
+#EXTINF:-1 group-title="Sports",Setanta Sports HD
+http://193.151.107.120:8000/play/147/index.m3u8
+#EXTINF:-1 group-title="Sports",Sky Sports 5
+http://93.152.174.144:4000/play/skysports5/index.m3u8
+#EXTINF:-1 group-title="Sports",Sky Sports 2
+http://93.152.174.144:4000/play/skysports2/index.m3u8
+#EXTINF:-1 group-title="Sports",Setanta Sports HD
+http://myott.tv/stream/E9LYLBWT7X/234.m3u8
+#EXTINF:-1 group-title="Sports",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sports",Extreme sports
+http://193.151.107.120:8000/play/121/index.m3u8
+#EXTINF:-1 group-title="Sports",Dubai Sports
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:-1 group-title="Sports",DE:More Than Sports TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/61a7d63a-1d2e-11ec-b414-948e0b8da07d/0/master.m3u8
+#EXTINF:-1 group-title="Sports",DE:HorizonSports
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/3d48ace9-7cd7-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="Sports",Bein Sports Xtra ñ
+https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
+#EXTINF:-1 group-title="Sports",BEIN SPORTS XTRA Ñ
+https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
+#EXTINF:-1 group-title="Sports",BEIN SPORTS PREMIUM 1HD
+http://7b30f9aa.tvclub.xyz:80/iptv/SGME6W4L2A6MNZ/6131/index.m3u8
+#EXTINF:-1 group-title="Sports",Bein Sports 5
+http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
+#EXTINF:-1 group-title="Sports",Bein Sports 7 AR
+http://93.152.174.144:4000/play/bein7/index.m3u8
+#EXTINF:-1 group-title="Sports",Bein Sports 3
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
+#EXTINF:-1 group-title="Sports",TVS Women Sports (480p)
+https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1 group-title="Sports",TVS Sports Bureau (720p)
+https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1 group-title="Sports",TVS Sports (960p)
+https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1 group-title="Sports",Bahrain Sports 1 (720p)
+http://185.105.4.106:1935/live/Bahrain+Sports/HasBahCa.m3u8
+#EXTINF:-1 group-title="Sports",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sports",Al Kass Sports | Qatar
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1&&
+#EXTINF:-1 group-title="Sports",Dubai Sports 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8?
+#EXTINF:-1 group-title="Sports",Art Sports
+http://tv3.streampulse.eu:1935/tilesport/movie2/chunklist.m3u8
+#EXTINF:-1 group-title="Sports",#EXTINF-1Abu Dhabi Sports
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1
+#EXTINF:-1 group-title="Sports",#EXTINF-1Dubai Sports
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
+#EXTINF:-1 group-title="Sports",#EXTINF-1Fight Sports
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
+#EXTINF:-1 group-title="Sports",SportsGrid (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
+#EXTINF:-1 group-title="Sports",EUROSPORTS 1 HD
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/228/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS 1 HD
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/2478/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 2 HD
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/2500/index.m3u8
+#EXTINF:-1 group-title="Sports",ELEVEN SPORTS 2 HD PT
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/2532/index.m3u8
+#EXTINF:-1 group-title="Sports",EUROSPORTS 2 HD
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/5076/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 3 HD
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6124/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN Sports 5 HD QA
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6126/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN Sports 9 HD QA
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6130/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN Sports 11 HD QA
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6132/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN Sports 10 HD QA
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6131/index.m3u8
+#EXTINF:-1 group-title="Sports",Sportsnet ONE HD CA
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6438/index.m3u8
+#EXTINF:-1 group-title="Sports",Sportsnet Ontario HD CA
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6439/index.m3u8
+#EXTINF:-1 group-title="Sports",Sportsnet 360 HD CA
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6462/index.m3u8
+#EXTINF:-1 group-title="Sports",Sportsnet East HD CA
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6477/index.m3u8
+#EXTINF:-1 group-title="Sports",Sportsnet West HD CA
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6478/index.m3u8
+#EXTINF:-1 group-title="Sports",Sportsnet Pacific HD CA
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6479/index.m3u8
+#EXTINF:-1 group-title="Sports",FOX SPORTS 1 HD
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/7322/index.m3u8
+#EXTINF:-1 group-title="Sports",CBS SPORTS NETWORK HD
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/7324/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS PREMIER LEAGUE HD
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/7335/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS MAIN EVENT UK
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/7337/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS MIX HD
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/7339/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS NFL UK
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/7340/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS GOLF UK
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/7344/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 1 HD
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 2 HD
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS 1 HD
+http://93.152.174.144:4000/play/ssports1/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS ACTION HD
+https://list.iptvcat.com/my_list/s/b8ffba7fc9566f9f6a11400aa98b28a2.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS FOOTBALL HD
+https://list.iptvcat.com/my_list/s/3a16cd157d3f93747cb9330ed7c0f684.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS ARENA HD
+https://list.iptvcat.com/my_list/s/80d340642dea83344a6b307b69a5b302.m3u8
+#EXTINF:-1 group-title="Sports",EUROSPORTS 1 HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/228/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS 1 HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2478/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS 2 HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2479/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 1 HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2499/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 3 HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2501/index.m3u8
+#EXTINF:-1 group-title="Sports",ELEVEN SPORTS 1 HD PT
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2531/index.m3u8
+#EXTINF:-1 group-title="Sports",ELEVEN SPORTS 2 HD PT
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2532/index.m3u8
+#EXTINF:-1 group-title="Sports",EUROSPORTS 2 HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/5076/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN Sports 4 HD QA
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6125/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN Sports 11 HD QA
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6132/index.m3u8
+#EXTINF:-1 group-title="Sports",Sportsnet 360 HD CA
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6462/index.m3u8
+#EXTINF:-1 group-title="Sports",Sportsnet East HD CA
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6477/index.m3u8
+#EXTINF:-1 group-title="Sports",Sportsnet West HD CA
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6478/index.m3u8
+#EXTINF:-1 group-title="Sports",Sportsnet Pacific HD CA
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6479/index.m3u8
+#EXTINF:-1 group-title="Sports",FOX SPORTS 1 HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7322/index.m3u8
+#EXTINF:-1 group-title="Sports",FOX SPORTS 2 HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7323/index.m3u8
+#EXTINF:-1 group-title="Sports",CBS SPORTS NETWORK HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7324/index.m3u8
+#EXTINF:-1 group-title="Sports",NBC SPORTS NETWORK US
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7327/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS PREMIER LEAGUE HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7335/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS FOOTBALL HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7336/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS MAIN EVENT UK
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7337/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS ARENA HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7338/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS MIX HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7339/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS NFL UK
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7340/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS RACING UK
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7341/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS CRICKET HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7343/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS GOLF UK
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7344/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS ACTION HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7345/index.m3u8
+#EXTINF:-1 group-title="Sports",FOX SPORTS 3 HD
+https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+#EXTINF:-1 group-title="Sports",FOX SPORTS 1 HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/7322/index.m3u8
+#EXTINF:-1 group-title="Sports",FOX SPORTS 2 HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/7323/index.m3u8
+#EXTINF:-1 group-title="Sports",EUROSPORTS 1 HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/228/index.m3u8
+#EXTINF:-1 group-title="Sports",CBS SPORTS NETWORK HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/7324/index.m3u8
+#EXTINF:-1 group-title="Sports",NBC SPORTS NETWORK HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/7325/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 1 HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/6123/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 2 HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/2500/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 3 HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/6124/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 4 HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/6125/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 5 HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/6126/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 6 HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/6127/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 7 HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/6128/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS 1 HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/2478/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS 2 HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/2479/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS PREMIER LEAGUE
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/7335/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS FOOTBALL HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/7336/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS ARENA HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/7338/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS F1 HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/7342/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS CRICKET HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/7343/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS ACTION HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/7345/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS GOLF
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/7344/index.m3u8
+#EXTINF:-1 group-title="Sports",Live Sports (pk)
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+#EXTINF:-1 group-title="Sports",PTV SPORTS 1
+http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
+#EXTINF:-1 group-title="Sports",DUBAI SPORTS 3 FHD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby
+#EXTINF:-1 group-title="Sports",IN SPORTS
+https://sc.id-tv.kz/INSPORTHD_36_37.m3u8
+#EXTINF:-1 group-title="Sports",Bein Sports 2 FR
+http://93.152.174.144:4000/play/bein2fr/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sports",Bein Sports 3 FR
+http://93.152.174.144:4000/play/bein3fr/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sports",Bein Sports 5 AR
+http://93.152.174.144:4000/play/Bein5Ar/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sports",Bein Sports 4 AR
+http://93.152.174.144:4000/play/bein7/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sports",Sky Sports f1
+http://93.152.174.144:4000/play/ssportsf1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sports",Star Sports
+http://live.tvfix.org/hls/starsports.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-bein-xtra-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 group-title="Sports", MySports 1
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
+#EXTINF:-1 group-title="Sports",TyC Sports
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+#EXTINF:-1 group-title="Sports",Extreme Sports
+http://31.173.178.110:8205/play/a05f/index.m3u8
+#EXTINF:-1 group-title="Sports",Fox Sports News
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 group-title="Sports",FIGHT Sports
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_2.m3u8
+#EXTINF:-1 group-title="Sports",Sharjah Sports
+http://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
+#EXTINF:-1 group-title="Sports",Sports Tonight
+http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/playlist.m3u8
+#EXTINF:-1 group-title="Sports",TNT Sports
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 4 HD QA
+http://93.152.174.144:4000/play/bein4ar/index.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports
+https://tvfix.woodong.workers.dev/hls/starsports.m3u8
+#EXTINF:-1 group-title="Sports",Fox Sports Australia
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
+#EXTINF:-1 group-title="Sports",SportsGrid
+https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Whistle Sports
+https://whistlesports-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Abu Dhabi Sports 4
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Abu Dhabi Sports
+http://www.elahmad.com/tv/m3u8/adtv.m3u8
+#EXTINF:-1 group-title="Sports",AD Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6
+#EXTINF:-1 group-title="Sports",DIRECTV SPORTS
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="Sports",DIRECTV SPORTS
+http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="Sports",Fox Sports
+http://edge6-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+#EXTINF:-1 group-title="Sports", SWISS SPORTS
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1477627972_b1096000.m3u8
+#EXTINF:-1 group-title="Sports",卡塔尔 Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 group-title="Sports",卡塔尔 Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 group-title="Sports",[阿曼]OmanSports
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Sports",Best Cable Sports Perú (720p) [Not 24/7]
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
+#EXTINF:-1 group-title="Sports",FOX SPORTS 2 HD(备)
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS F1 HD(备)
+http://93.152.174.144:4000/play/ssportsf1/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 1HD(备)
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/6131/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 1HD(备1)
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/6132/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS F1 HD(备)
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/10079/index.m3u8
+#EXTINF:-1 group-title="Sports",印尼-TVRISports
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Sports",DD Sports (576p)
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 group-title="Sports",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Sports",Dubai Sports (1080p)
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sports",Dubai Sports 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Sports",DUBAI SPORTS 1 (1080p)
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8
+#EXTINF:-1 group-title="Sports",Dubai Sports 1 (1080p)
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:-1 group-title="Sports",Dubai Sports 1 HD
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="Sports",DUBAI SPORTS 2 (1080p)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sports",Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8?
+#EXTINF:-1 group-title="Sports",Dubai Sports 2 (1080p)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 group-title="Sports",Dubai Sports 3 (1080p)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 group-title="Sports",fubo Sports Network (720p)
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
+#EXTINF:-1 group-title="Sports",Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8?2957056943
+#EXTINF:-1 group-title="Sports",SportsGrid
+https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Sports Grid
+https://sportsgrid-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5ef11485d33ab9004048a1ca/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/1280x720_2855600/index.m3u8
+#EXTINF:-1 group-title="Sports",巴林 Bahrain Sports 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Abu Dhabi Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1 group-title="Sports",Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1 group-title="Sports",Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1 group-title="Sports",Al Kass Sports 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 group-title="Sports",Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 group-title="Sports",Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 group-title="Sports",du bai sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Sports",du bai sports 2 hd
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Sports",DUBAI SPORTS
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sports",sports[1280*720]
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 group-title="Sports",Abu Dabi Sports 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Sports",Abu Dabi Sports 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Sports",All Sports (720p)
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Lax Sports Network TV (720p)
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:-1 group-title="Sports",KBP Sports (720p) [Not 24/7]
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Oman Sports TV (1080p) [Not 24/7]
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Sharjah Sports TV (1080p)
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Sports Tonight (576p) [Not 24/7]
+http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+#EXTINF:-1 group-title="Sports",TVS Classic Sports (360p)
+http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
+#EXTINF:-1 group-title="Sports",Adventure Sports Network (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
+#EXTINF:-1 group-title="Sports",Sports TV Plus (1080p)
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+#EXTINF:-1 group-title="Sports",SportsGrid (1080p)
+https://sportsgrid-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Sportswire (1080p)
+https://dai.google.com/linear/hls/event/8R__yZf7SR6yMb-oTXgbEQ/master.m3u8
+#EXTINF:-1 group-title="Sports",STIRR Whistle Sports (1080p)
+https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8
+#EXTINF:-1 group-title="Sports",USA TODAY Sportswire
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaysports-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=HJNpAsLWteW2_Q7vbySW&channelId=60df3e18541143002f3b8609
+#EXTINF:-1 group-title="Sports",TYC SPORTS PLAY
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
+#EXTINF:-1 group-title="Sports",SportsGrid
+https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=HJNpAsLWteW2_Q7vbySW&channelId=5ef11485d33ab9004048a1ca
+#EXTINF:-1 group-title="Sports",Sportsgrid
+https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Sports
+https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 group-title="Sports",Sky Sports 4
+http://93.152.174.144:4000/play/skysports4/index.m3u8
+#EXTINF:-1 group-title="Sports",Sky Sports 3
+http://93.152.174.144:4000/play/skysports3/index.m3u8
+#EXTINF:-1 group-title="Sports",Setanta Sports HD
+http://193.151.107.120:8000/play/147/index.m3u8
+#EXTINF:-1 group-title="Sports",Sky Sports 5
+http://93.152.174.144:4000/play/skysports5/index.m3u8
+#EXTINF:-1 group-title="Sports",Sky Sports 2
+http://93.152.174.144:4000/play/skysports2/index.m3u8
+#EXTINF:-1 group-title="Sports",Setanta Sports HD
+http://myott.tv/stream/E9LYLBWT7X/234.m3u8
+#EXTINF:-1 group-title="Sports",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sports",Extreme sports
+http://193.151.107.120:8000/play/121/index.m3u8
+#EXTINF:-1 group-title="Sports",Dubai Sports
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:-1 group-title="Sports",DE:More Than Sports TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/61a7d63a-1d2e-11ec-b414-948e0b8da07d/0/master.m3u8
+#EXTINF:-1 group-title="Sports",DE:HorizonSports
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/3d48ace9-7cd7-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 group-title="Sports",Bein Sports Xtra ñ
+https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
+#EXTINF:-1 group-title="Sports",BEIN SPORTS XTRA Ñ
+https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
+#EXTINF:-1 group-title="Sports",BEIN SPORTS PREMIUM 1HD
+http://7b30f9aa.tvclub.xyz:80/iptv/SGME6W4L2A6MNZ/6131/index.m3u8
+#EXTINF:-1 group-title="Sports",Bein Sports 5
+http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
+#EXTINF:-1 group-title="Sports",Bein Sports 7 AR
+http://93.152.174.144:4000/play/bein7/index.m3u8
+#EXTINF:-1 group-title="Sports",Bein Sports 3
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
+#EXTINF:-1 group-title="Sports",TVS Women Sports (480p)
+https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1 group-title="Sports",TVS Sports Bureau (720p)
+https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1 group-title="Sports",TVS Sports (960p)
+https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1 group-title="Sports",Bahrain Sports 1 (720p)
+http://185.105.4.106:1935/live/Bahrain+Sports/HasBahCa.m3u8
+#EXTINF:-1 group-title="Sports",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sports",Al Kass Sports | Qatar
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1&&
+#EXTINF:-1 group-title="Sports",Dubai Sports 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8?
+#EXTINF:-1 group-title="Sports",Art Sports
+http://tv3.streampulse.eu:1935/tilesport/movie2/chunklist.m3u8
+#EXTINF:-1 group-title="Sports",#EXTINF-1Abu Dhabi Sports
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1
+#EXTINF:-1 group-title="Sports",#EXTINF-1Dubai Sports
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
+#EXTINF:-1 group-title="Sports",#EXTINF-1Fight Sports
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
+#EXTINF:-1 group-title="Sports",SportsGrid (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
+#EXTINF:-1 group-title="Sports",EUROSPORTS 1 HD
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/228/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS 1 HD
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/2478/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 2 HD
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/2500/index.m3u8
+#EXTINF:-1 group-title="Sports",ELEVEN SPORTS 2 HD PT
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/2532/index.m3u8
+#EXTINF:-1 group-title="Sports",EUROSPORTS 2 HD
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/5076/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 3 HD
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6124/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN Sports 5 HD QA
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6126/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN Sports 9 HD QA
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6130/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN Sports 11 HD QA
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6132/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN Sports 10 HD QA
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6131/index.m3u8
+#EXTINF:-1 group-title="Sports",Sportsnet ONE HD CA
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6438/index.m3u8
+#EXTINF:-1 group-title="Sports",Sportsnet Ontario HD CA
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6439/index.m3u8
+#EXTINF:-1 group-title="Sports",Sportsnet 360 HD CA
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6462/index.m3u8
+#EXTINF:-1 group-title="Sports",Sportsnet East HD CA
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6477/index.m3u8
+#EXTINF:-1 group-title="Sports",Sportsnet West HD CA
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6478/index.m3u8
+#EXTINF:-1 group-title="Sports",Sportsnet Pacific HD CA
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6479/index.m3u8
+#EXTINF:-1 group-title="Sports",FOX SPORTS 1 HD
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/7322/index.m3u8
+#EXTINF:-1 group-title="Sports",CBS SPORTS NETWORK HD
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/7324/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS PREMIER LEAGUE HD
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/7335/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS MAIN EVENT UK
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/7337/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS MIX HD
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/7339/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS NFL UK
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/7340/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS GOLF UK
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/7344/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 1 HD
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 2 HD
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS 1 HD
+http://93.152.174.144:4000/play/ssports1/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS ACTION HD
+https://list.iptvcat.com/my_list/s/b8ffba7fc9566f9f6a11400aa98b28a2.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS FOOTBALL HD
+https://list.iptvcat.com/my_list/s/3a16cd157d3f93747cb9330ed7c0f684.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS ARENA HD
+https://list.iptvcat.com/my_list/s/80d340642dea83344a6b307b69a5b302.m3u8
+#EXTINF:-1 group-title="Sports",EUROSPORTS 1 HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/228/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS 1 HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2478/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS 2 HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2479/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 1 HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2499/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 3 HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2501/index.m3u8
+#EXTINF:-1 group-title="Sports",ELEVEN SPORTS 1 HD PT
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2531/index.m3u8
+#EXTINF:-1 group-title="Sports",ELEVEN SPORTS 2 HD PT
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2532/index.m3u8
+#EXTINF:-1 group-title="Sports",EUROSPORTS 2 HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/5076/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN Sports 4 HD QA
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6125/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN Sports 11 HD QA
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6132/index.m3u8
+#EXTINF:-1 group-title="Sports",Sportsnet 360 HD CA
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6462/index.m3u8
+#EXTINF:-1 group-title="Sports",Sportsnet East HD CA
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6477/index.m3u8
+#EXTINF:-1 group-title="Sports",Sportsnet West HD CA
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6478/index.m3u8
+#EXTINF:-1 group-title="Sports",Sportsnet Pacific HD CA
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6479/index.m3u8
+#EXTINF:-1 group-title="Sports",FOX SPORTS 1 HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7322/index.m3u8
+#EXTINF:-1 group-title="Sports",FOX SPORTS 2 HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7323/index.m3u8
+#EXTINF:-1 group-title="Sports",CBS SPORTS NETWORK HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7324/index.m3u8
+#EXTINF:-1 group-title="Sports",NBC SPORTS NETWORK US
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7327/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS PREMIER LEAGUE HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7335/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS FOOTBALL HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7336/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS MAIN EVENT UK
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7337/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS ARENA HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7338/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS MIX HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7339/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS NFL UK
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7340/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS RACING UK
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7341/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS CRICKET HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7343/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS GOLF UK
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7344/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS ACTION HD
+http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7345/index.m3u8
+#EXTINF:-1 group-title="Sports",FOX SPORTS 3 HD
+https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+#EXTINF:-1 group-title="Sports",FOX SPORTS 1 HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/7322/index.m3u8
+#EXTINF:-1 group-title="Sports",FOX SPORTS 2 HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/7323/index.m3u8
+#EXTINF:-1 group-title="Sports",EUROSPORTS 1 HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/228/index.m3u8
+#EXTINF:-1 group-title="Sports",CBS SPORTS NETWORK HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/7324/index.m3u8
+#EXTINF:-1 group-title="Sports",NBC SPORTS NETWORK HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/7325/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 1 HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/6123/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 2 HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/2500/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 3 HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/6124/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 4 HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/6125/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 5 HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/6126/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 6 HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/6127/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 7 HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/6128/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS 1 HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/2478/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS 2 HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/2479/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS PREMIER LEAGUE
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/7335/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS FOOTBALL HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/7336/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS ARENA HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/7338/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS F1 HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/7342/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS CRICKET HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/7343/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS ACTION HD
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/7345/index.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORTS GOLF
+http://ff1b0571.russtv.net/iptv/V88EYWK93ZQKMQ/7344/index.m3u8
+#EXTINF:-1 group-title="Sports",Live Sports (pk)
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+#EXTINF:-1 group-title="Sports",PTV SPORTS 1
+http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
+#EXTINF:-1 group-title="Sports",DUBAI SPORTS 3 FHD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby
+#EXTINF:-1 group-title="Sports",IN SPORTS
+https://sc.id-tv.kz/INSPORTHD_36_37.m3u8
+#EXTINF:-1 group-title="Sports",Bein Sports 2 FR
+http://93.152.174.144:4000/play/bein2fr/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sports",Bein Sports 3 FR
+http://93.152.174.144:4000/play/bein3fr/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sports",Bein Sports 5 AR
+http://93.152.174.144:4000/play/Bein5Ar/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sports",Bein Sports 4 AR
+http://93.152.174.144:4000/play/bein7/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sports",Sky Sports f1
+http://93.152.174.144:4000/play/ssportsf1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sports",Star Sports
+http://live.tvfix.org/hls/starsports.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-bein-xtra-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 group-title="Sports", MySports 1
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
+#EXTINF:-1 group-title="Sports",TyC Sports
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+#EXTINF:-1 group-title="Sports",Extreme Sports
+http://31.173.178.110:8205/play/a05f/index.m3u8
+#EXTINF:-1 group-title="Sports",Fox Sports News
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 group-title="Sports",FIGHT Sports
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_2.m3u8
+#EXTINF:-1 group-title="Sports",Sharjah Sports
+http://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
+#EXTINF:-1 group-title="Sports",Sports Tonight
+http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/playlist.m3u8
+#EXTINF:-1 group-title="Sports",TNT Sports
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
+#EXTINF:-1 group-title="Sports",beIN SPORTS 4 HD QA
+http://93.152.174.144:4000/play/bein4ar/index.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports
+https://tvfix.woodong.workers.dev/hls/starsports.m3u8
+#EXTINF:-1 group-title="Sports",Fox Sports Australia
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
+#EXTINF:-1 group-title="Sports",SportsGrid
+https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Whistle Sports
+https://whistlesports-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Abu Dhabi Sports 4
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Abu Dhabi Sports
+http://www.elahmad.com/tv/m3u8/adtv.m3u8
+#EXTINF:-1 group-title="Sports",AD Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6
+#EXTINF:-1 group-title="Sports",DIRECTV SPORTS
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="Sports",DIRECTV SPORTS
+http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="Sports",Fox Sports
+http://edge6-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+#EXTINF:-1 group-title="Sports", SWISS SPORTS
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1477627972_b1096000.m3u8
