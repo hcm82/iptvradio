@@ -7718,3 +7718,146 @@ http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
 http://edge6-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
 #EXTINF:-1 group-title="Sports", SWISS SPORTS
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1477627972_b1096000.m3u8
+
+#EXTINF:-1group-title="台湾 网络收集",Q探索发现
+http://211.23.114.106:11510/http/60.251.39.91:8081/hls/71/813/ch44.m3u8
+#EXTINF:-1group-title="台湾 网络收集",国家地理
+http://211.23.114.106:11150/http/60.251.39.91:8081/hls/61/803/ch01.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Q动物星球
+http://211.23.114.106:11380/http/60.251.39.91:8081/hls/70/812/ch37.m3u8
+#EXTINF:-1group-title="台湾 网络收集",TLC旅游生活
+http://211.23.114.106:11100/http/60.251.39.91:8081/hls/70/812/ch38.m3u8
+#EXTINF:-1group-title="台湾 网络收集",QHBO
+http://211.23.114.106:11410/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
+#EXTINF:-1group-title="台湾 网络收集",霹雳台湾
+http://211.23.114.106:11505/http/60.251.39.91:8081/hls/75/817/ch59.m3u8
+#EXTINF:-1group-title="台湾 网络收集",QCINEMAX
+http://211.23.114.106:11420/http/60.251.39.91:8081/hls/71/813/ch42.m3u8
+#EXTINF:-1group-title="台湾 网络收集",AXN
+http://211.23.114.106:11140/http/60.251.39.91:8081/hls/71/813/ch43.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Animax
+http://211.23.114.106:11390/http/60.251.39.91:8081/hls/70/812/ch39.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Q好莱坞电影
+http://211.23.114.106:11350/http/60.251.39.91:8081/hls/74/816/ch55.m3u8
+#EXTINF:-1group-title="台湾 网络收集",StarWorld
+http://211.23.114.106:11325/http/60.251.39.91:8081/hls/61/803/ch02.m3u8
+#EXTINF:-1group-title="台湾 网络收集",CNBC
+http://211.23.114.106:11430/http/60.251.39.91:8078/hls/24/80/cnbc90.m3u8
+#EXTINF:-1group-title="台湾 网络收集",NHK新闻
+http://211.23.114.106:11415/http/60.251.39.91:8081/hls/62/804/ch06.m3u8
+#EXTINF:-1group-title="台湾 网络收集",卫视中文
+http://211.23.114.106:11140/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
+#EXTINF:-1group-title="台湾 网络收集",卫视电影
+http://211.23.114.106:11345/http/60.251.39.91:8081/hls/62/804/ch07.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Q卫视电影GOLD
+http://211.23.114.106:11425/http/60.251.39.91:8081/hls/62/804/ch08.m3u8
+#EXTINF:-1group-title="台湾 网络收集",东森幼幼
+http://211.23.114.106:11250/http/60.251.39.91:8081/hls/63/805/ch09.m3u8
+#EXTINF:-1group-title="台湾 网络收集",东森新闻
+http://211.23.114.106:11220/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+#EXTINF:-1group-title="台湾 网络收集",东森财经
+http://211.23.114.106:11305/http/60.251.39.91:8081/hls/63/805/ch11.m3u8
+#EXTINF:-1group-title="台湾 网络收集",东森综合
+http://211.23.114.106:11215/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Q东森戏剧
+http://211.23.114.106:11245/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Q东森超视
+http://211.23.114.106:11540/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Q三立新闻
+http://211.23.114.106:11375/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+#EXTINF:-1group-title="台湾 网络收集",三立都会
+http://211.23.114.106:11160/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Q三立台湾
+http://211.23.114.106:11200/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
+#EXTINF:-1group-title="台湾 网络收集",八大综合
+http://211.23.114.106:11185/http/60.251.39.91:8081/hls/66/808/ch21.m3u8
+#EXTINF:-1group-title="台湾 网络收集",八大一台
+http://211.23.114.106:11190/http/60.251.39.91:8081/hls/66/808/ch22.m3u8
+#EXTINF:-1group-title="台湾 网络收集",八大戏剧
+http://211.23.114.106:11205/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Q壹新闻
+http://211.23.114.106:11405/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Q中天新闻
+http://211.23.114.106:11555/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Q中天新闻
+http://211.23.114.106:11555/http/60.251.39.91:8081/hls/76/818/ch63.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Q中天综合
+http://211.23.114.106:11255/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Q中天娱乐
+http://211.23.114.106:11230/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
+#EXTINF:-1group-title="台湾 网络收集",国兴卫视
+http://211.23.114.106:11535/http/60.251.39.91:8081/hls/64/806/ch15.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Q东风卫视
+http://211.23.114.106:11515/http/60.251.39.91:8081/hls/68/810/ch31.m3u8
+#EXTINF:-1group-title="台湾 网络收集",纬来综合
+http://211.23.114.106:11235/http/60.251.39.91:8081/hls/68/810/ch32.m3u8
+#EXTINF:-1group-title="台湾 网络收集",纬来日本
+http://211.23.114.106:11240/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Q纬来戏剧
+http://211.23.114.106:11300/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
+#EXTINF:-1group-title="台湾 网络收集",纬来电影
+http://211.23.114.106:11355/http/60.251.39.91:8081/hls/69/811/ch35.m3u8
+#EXTINF:-1group-title="台湾 网络收集",纬来育乐
+http://211.23.114.106:11335/http/60.251.39.91:8081/hls/68/810/ch30.m3u8
+#EXTINF:-1group-title="台湾 网络收集",纬来体育
+http://211.23.114.106:11440/http/60.251.39.91:8081/hls/67/809/ch28.m3u8
+#EXTINF:-1group-title="台湾 网络收集",JET综合
+http://211.23.114.106:11340/http/60.251.39.91:8081/hls/74/816/ch54.m3u8
+#EXTINF:-1group-title="台湾 网络收集",QBaby TV
+http://211.23.114.106:11165/http/60.251.39.91:8078/hls/35/80/babytv.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Qmomo亲子台
+http://211.23.114.106:11545/http/60.251.39.91:8081/hls/70/812/ch40.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Q年代MuchTV
+http://211.23.114.106:11320/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Q年代新闻
+http://211.23.114.106:11330/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+#EXTINF:-1group-title="台湾 网络收集",台视
+http://211.23.114.106:11360/http/60.251.39.91:8081/hls/72/814/ch46.m3u8
+#EXTINF:-1group-title="台湾 网络收集",中视
+http://211.23.114.106:11105/http/60.251.39.91:8081/hls/72/814/ch47.m3u8
+#EXTINF:-1group-title="台湾 网络收集",华视
+http://211.23.114.106:11110/http/60.251.39.91:8081/hls/72/814/ch48.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Q民视
+http://211.23.114.106:11115/http/60.251.39.91:8081/hls/73/815/ch49.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Q民视新闻
+http://211.23.114.106:11370/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Q公视
+http://211.23.114.106:11120/http/60.251.39.91:8081/hls/73/815/ch50.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Q大爱1台
+http://211.23.114.106:11520/http/60.251.39.91:8081/hls/73/815/ch52.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Q大爱2台
+http://211.23.114.106:11530/http/60.251.39.91:8081/hls/75/817/ch60.m3u8
+#EXTINF:-1group-title="台湾 网络收集",正德佛教
+http://211.23.114.106:11315/http/60.251.39.91:8081/hls/64/806/ch16.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Q人间卫视
+http://211.23.114.106:11125/http/60.251.39.91:8081/hls/69/811/ch36.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Q非凡商业
+http://211.23.114.106:11180/http/60.251.39.91:8081/hls/74/816/ch56.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Q非凡新闻
+http://211.23.114.106:11380/http/60.251.39.91:8081/hls/75/817/ch57.m3u8
+#EXTINF:-1group-title="台湾 网络收集",华视新闻
+http://211.23.114.106:11175/http/60.251.39.91:8081/hls/75/817/ch58.m3u8
+#EXTINF:-1group-title="台湾 网络收集",亚洲旅游
+http://211.23.114.106:11210/http/60.251.39.91:8081/hls/76/818/ch61.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Q环宇新闻
+http://211.23.114.106:11400/http/60.251.39.91:8081/hls/76/818/ch62.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Q环宇新闻
+http://211.23.114.106:11400/http/60.251.39.91:8066/hls/210/10016/cstv16.m3u8
+#EXTINF:-1group-title="台湾 网络收集",ELEVEN 2
+http://211.23.114.106:11435/http/60.251.39.91:8078/hls/26/80/esport2.m3u8
+#EXTINF:-1group-title="台湾 网络收集",QELEVEN 1
+http://211.23.114.106:11455/http/60.251.39.91:8078/hls/26/80/esport1.m3u8
+#EXTINF:-1group-title="台湾 网络收集",龙华戏剧
+http://211.23.114.106:11445/http/60.251.39.91:8066/hls/210/10010/cstv10.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Q龙华日韩
+http://211.23.114.106:11310/http/60.251.39.91:8066/hls/210/10011/cstv11.m3u8
+#EXTINF:-1group-title="台湾 网络收集",龙华偶像
+http://211.23.114.106:11385/http/60.251.39.91:8066/hls/210/10012/cstv12.m3u8
+#EXTINF:-1group-title="台湾 网络收集",龙华卡通
+http://211.23.114.106:11500/http/60.251.39.91:8066/hls/210/10013/cstv13.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Q龙华电影
+http://211.23.114.106:11360/http/60.251.39.91:8066/hls/210/10014/cstv14.m3u8
+#EXTINF:-1group-title="台湾 网络收集",博斯运动I
+http://211.23.114.106:11130/http/60.251.39.91:8066/hls/210/10018/cstv18.m3u8
+#EXTINF:-1group-title="台湾 网络收集",Q博斯运动II
+http://211.23.114.106:11450/http/60.251.39.91:8081/hls/61/803/ch04.m3u8
