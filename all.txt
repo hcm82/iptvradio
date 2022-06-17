@@ -69,3 +69,19 @@ History East,https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884
 凤凰资讯 8M1080,http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+
+自然人文,#genre#
+Discovery 纪录频道,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+Discovery 生活频道,http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
+Discovery 科学频道,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
+Discovery 动物频道,http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
+CGTN Documentary 纪录片(576p),http://39.134.66.66/PLTV/88888888/224/3221225509/index.m3u8
+上海人文纪实 (1080p),https://livemixer1.kksmg.com/tvlive/jspd/f5b4d93c-b453-44f2-b11d-f087c52343b3.m3u8
+上海ICS外语频道,https://livemixer1.kksmg.com/tvlive/wypd/d77f83e8-2317-4c6f-9891-db8eafd354f7.m3u8
+成都大熊猫 (1080p) [Not 24/7],https://gcbsc.v.live.baishancdnx.cn/gc/xiongmao03_1/index.m3u8?contentid=2820180516001
+NASA TV Media (720p),https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+NASA TV Public (720p),https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+求索动物 8M1080,http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
+求索生活 8M1080,http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
+求索科学 8M1080,http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
+求索纪录 8M1080,http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
