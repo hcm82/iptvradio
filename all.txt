@@ -83,6 +83,7 @@ Deutsche welle德国国家电视台英语新闻,https://dwamdstream102.akamaized
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 
 自然人文,#genre#
+CCTV9 纪录,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
 Discovery 纪录频道,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
 Discovery 生活频道,http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
 Discovery 科学频道,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
@@ -98,7 +99,7 @@ NASA TV Public (720p),https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/
 求索科学 8M1080,http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
 求索纪录 8M1080,http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
 
-自然人文,#genre#
+体育频道,#genre#
 CCTV5,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
 CCTV5+HD,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup
 风云足球,http://117.148.179.137/PLTV/88888888/224/3221231547/index.m3u8
