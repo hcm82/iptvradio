@@ -64,6 +64,18 @@ National Geographic Japan,http://cdn.us195.jpnettv.live:1935/jptv/National_geogr
 National Geographic Wild Asia,https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist.m3u8
 History East,https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
+半岛新闻 (1080p),https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+Reuters路透社 (720p),https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
+ABC美国广播公司 (720p),https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+CBS哥伦比亚广播公司 (720p),https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+CNN美国有线电视新闻网 (720p),https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+Fox福克斯 (720p),https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+NBC 美国全国广播公司 (1080p),http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+NBC 美国全国广播公司 实时新闻 (720p),https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
+Sky News 天空电视台新闻,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+BBC英国广播公司 World News (576),http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+Deutsche welle德国国家电视台英语新闻,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
 香港网络搜集,#genre#
 凤凰中文 8M1080,http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 凤凰资讯 8M1080,http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
@@ -85,3 +97,23 @@ NASA TV Public (720p),https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/
 求索生活 8M1080,http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
 求索科学 8M1080,http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
 求索纪录 8M1080,http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
+
+自然人文,#genre#
+CCTV5,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+CCTV5+HD,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup
+风云足球,http://117.148.179.137/PLTV/88888888/224/3221231547/index.m3u8
+MMA Junkie 格斗(720p),https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
+Hard Knocks (1080p)[Not,https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
+五星体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
+新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+劲爆体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+Fox Sports News 福克斯体育新闻,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+Sky Sports 24 HD,https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
+
+
+地方频道,#genre#
+湖南卫视,http://117.148.179.172/PLTV/88888888/224/3221231729/index.m3u8
+江苏卫视,http://117.148.179.175/PLTV/88888888/224/3221231447/index.m3u8
+浙江卫视,http://117.148.179.140/PLTV/88888888/224/3221229352/index.m3u8
+东方卫视,http://117.148.179.160/PLTV/88888888/224/3221231738/index.m3u8
+上海都市,https://livemixer1.kksmg.com/tvlive/dspd/9ad9345c-d897-4dc4-8afd-8b53f5b35fa2.m3u8
