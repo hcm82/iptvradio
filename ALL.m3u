@@ -8742,7 +8742,7 @@ http://58.247.68.5:61985/m3u8/96651d8c/index.m3u8
 #EXTINF:-1group-title="港澳台58系列",CCTV14
 http://58.247.68.5:61985/m3u8/620b8ce3/index.m3u8
 
-#EXTM3U
+
 #EXTINF:-1group-title="日本",Animax
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
 #EXTINF:-1group-title="日本",Animax
