@@ -115,6 +115,37 @@ Hard Knocks (1080p)[Not,https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541
 劲爆体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
 Fox Sports News 福克斯体育新闻,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 Sky Sports 24 HD,https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
+CCTV5,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226311/1/index.m3u8?fmt=ts2hls
+CCTV5,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226308/1/index.m3u8?fmt=ts2hls
+CCTV5,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226306/1/index.m3u8?fmt=ts2hls
+CCTV5,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226315/1/index.m3u8?fmt=ts2hls
+CCTV5,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226312/1/index.m3u8?fmt=ts2hls
+CCTV5,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226314/1/index.m3u8?fmt=ts2hls
+CCTV5+,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226309/1/index.m3u8?fmt=ts2hls
+CCTV5+HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226171/1/index.m3u8?fmt=ts2hls
+CCTV5+HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226128/1/index.m3u8?fmt=ts2hls
+CCTV5+HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226285/1/index.m3u8?fmt=ts2hls
+CCTV5HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226043/1/index.m3u8?fmt=ts2hls
+CCTV5HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226248/1/index.m3u8?fmt=ts2hls
+CCTV5HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226259/1/index.m3u8?fmt=ts2hls
+CCTV5HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226024/1/index.m3u8?fmt=ts2hls
+CCTV风云足球HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
+CCTV风云足球HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
+CCTV高尔夫网球HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
+CCTV高尔夫网球HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
+CCTV央视台球HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
+CCTV央视台球HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226156/1/index.m3u8?fmt=ts2hls
+超级体育HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226220/1/index.m3u8?fmt=ts2hls
+东奥纪实HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226075/1/index.m3u8?fmt=ts2hls
+东奥纪实HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226105/1/index.m3u8?fmt=ts2hls
+体育赛事,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226253/1/index.m3u8?fmt=ts2hls
+体育赛事HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226081/1/index.m3u8?fmt=ts2hls
+体育赛事HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226196/1/index.m3u8?fmt=ts2hls
+天元围棋,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225714/1/index.m3u8?fmt=ts2hls
+足球频道HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226137/1/index.m3u8?fmt=ts2hls
+足球频道HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226134/1/index.m3u8?fmt=ts2hls
+新视觉HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226237/1/index.m3u8?fmt=ts2hls
+新视觉HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226186/1/index.m3u8?fmt=ts2hls
 
 
 地方频道,#genre#
