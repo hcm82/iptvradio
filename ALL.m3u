@@ -9360,3 +9360,664 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 group-title="日本",囲碁・将棋チャンネル (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
+#EXTINF:-1 group-title="上海百事通联通",湖南卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hnwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",东南卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dnwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",天津卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/tjwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",黑龙江卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hljwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",BesTV体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba7/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",生活时尚
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",极速汽车
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",游戏风云
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",CCTV1
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv1hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",CCTV3
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv3hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",CCTV5
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",CCTV5+
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv5phd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",CCTV6
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv6hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",CCTV8
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv8hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",CCTV10
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv10hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",CCTV14
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctvsehd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",上海外语
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/wypdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",东方影视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",五星体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",第一财经
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dycjhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",上海新闻
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",纪实人文
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jspdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",哈哈炫动
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",上海都市
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",东南卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dnwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",东方卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hddfws/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",北京卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/bjwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",天津卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/tjwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",安徽卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ahwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",山东卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/sdwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",广东卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/gdwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",江苏卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jswshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",江西卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jxwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",浙江卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/zjwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",辽宁卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/lnwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",深圳卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/szwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",湖北卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hbwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",湖南卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hnwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",黑龙江卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hljwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",新视觉
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",动漫秀场
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",游戏风云
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",劲爆体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",魅力足球
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",欢笑剧场
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hxjchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",极速汽车
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",生活时尚
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",全纪实
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",都市剧场
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",幸福彩
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xfchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",百事通体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba5/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",百事通体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba1/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",百事通体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba2/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",百事通体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba3/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",百事通体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba4/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",百事通体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba6/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",百事通体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba7/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",CCTV1
+http://140.207.241.2:8080/live/program/live/cctv1hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",CCTV2 540
+http://140.207.241.2:8080/live/program/live/cctv2/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",CCTV3
+http://140.207.241.2:8080/live/program/live/cctv3hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",CCTV4 540
+http://140.207.241.2:8080/live/program/live/cctv4/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",CCTV5
+http://140.207.241.2:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",CCTV5+
+http://140.207.241.2:8080/live/program/live/cctv5phd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",CCTV6
+http://140.207.241.2:8080/live/program/live/cctv6hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",CCTV7 540
+http://140.207.241.2:8080/live/program/live/cctv7/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",CCTV8
+http://140.207.241.2:8080/live/program/live/cctv8hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",CCTV10
+http://140.207.241.2:8080/live/program/live/cctv10hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",CCTV11 540
+http://140.207.241.2:8080/live/program/live/cctv11/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",CCTV12 540
+http://140.207.241.2:8080/live/program/live/cctv12/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",CCTV13 540
+http://140.207.241.2:8080/live/program/live/cctvxw/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",CCTV14
+http://140.207.241.2:8080/live/program/live/cctvsehd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",CCTV15 540
+http://140.207.241.2:8080/live/program/live/cctvyy/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",中国天气 576
+http://140.207.241.2:8080/live/program/live/zgqx/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",上海语
+http://140.207.241.2:8080/live/program/live/wypdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",东方影视
+http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",五星体育
+http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",第一财经
+http://140.207.241.2:8080/live/program/live/dycjhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",上海新闻
+http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",纪实人文
+http://140.207.241.2:8080/live/program/live/jspdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",哈哈炫动
+http://140.207.241.2:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",上海都市
+http://140.207.241.2:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",上海教育 540
+http://140.207.241.2:8080/live/program/live/setv/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",东南卫视
+http://140.207.241.2:8080/live/program/live/dnwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",东方卫视
+http://140.207.241.2:8080/live/program/live/hddfws/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",北京卫视
+http://140.207.241.2:8080/live/program/live/bjwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",天津卫视
+http://140.207.241.2:8080/live/program/live/tjwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",安徽卫视
+http://140.207.241.2:8080/live/program/live/ahwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",山东卫视
+http://140.207.241.2:8080/live/program/live/sdwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",广东卫视
+http://140.207.241.2:8080/live/program/live/gdwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",江苏卫视
+http://140.207.241.2:8080/live/program/live/jswshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",江西卫视
+http://140.207.241.2:8080/live/program/live/jxwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",浙江卫视
+http://140.207.241.2:8080/live/program/live/zjwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",辽宁卫视
+http://140.207.241.2:8080/live/program/live/lnwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",深圳卫视
+http://140.207.241.2:8080/live/program/live/szwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",湖北卫视
+http://140.207.241.2:8080/live/program/live/hbwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",湖南卫视
+http://140.207.241.2:8080/live/program/live/hnwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",黑龙江卫视
+http://140.207.241.2:8080/live/program/live/hljwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",厦门卫视 540
+http://140.207.241.2:8080/live/program/live/xmws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",吉林卫视 540
+http://140.207.241.2:8080/live/program/live/jlws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",四川卫视 540
+http://140.207.241.2:8080/live/program/live/scws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",宁夏卫视 540
+http://140.207.241.2:8080/live/program/live/nxws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",云南卫视 540
+http://140.207.241.2:8080/live/program/live/ynws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",兵团卫视 540
+http://140.207.241.2:8080/live/program/live/btws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",内蒙古卫视 540
+http://140.207.241.2:8080/live/program/live/nmgws/1300000/mnf.m3u8\'
+#EXTINF:-1 group-title="上海百事通联通",广西卫视 540
+http://140.207.241.2:8080/live/program/live/gxws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",新疆卫视 540
+http://140.207.241.2:8080/live/program/live/xjws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",河北卫视 540
+http://140.207.241.2:8080/live/program/live/hbws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",河南卫视 540
+http://140.207.241.2:8080/live/program/live/hnws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",海南卫视 540
+http://140.207.241.2:8080/live/program/live/lyws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",甘肃卫视 540
+http://140.207.241.2:8080/live/program/live/gsws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",贵州卫视 540
+http://140.207.241.2:8080/live/program/live/gzws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",重庆卫视 540
+http://140.207.241.2:8080/live/program/live/cqws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",陕西卫视 540
+http://140.207.241.2:8080/live/program/live/sxws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",青海卫视 540
+http://140.207.241.2:8080/live/program/live/qhws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",兵团卫视 540
+http://140.207.241.2:8080/live/program/live/btws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",湖南金鹰卡通 540
+http://140.207.241.2:8080/live/program/live/jykt/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",广东嘉佳卡通 540
+http://140.207.241.2:8080/live/program/live/jjkt/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",新视觉
+http://140.207.241.2:8080/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",动漫秀场
+http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",游戏风云
+http://140.207.241.2:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",劲爆体育
+http://140.207.241.2:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",魅力足球
+http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",欢笑剧场
+http://140.207.241.2:8080/live/program/live/hxjchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",极速汽车
+http://140.207.241.2:8080/live/program/live/jsqchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",生活时尚
+http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",全纪实
+http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",都市剧场
+http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",幸福彩
+http://140.207.241.2:8080/live/program/live/xfchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",法治天地 540
+http://140.207.241.2:8080/live/program/live/fztd/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",金色频道 540
+http://140.207.241.2:8080/live/program/live/jingsepd/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",七彩戏剧 540
+http://140.207.241.2:8080/live/program/live/qcxj/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",东方财经 540
+http://140.207.241.2:8080/live/program/live/dfcj/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",百事通体育
+http://140.207.241.2:8080/live/program/live/hdnba5/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",百事通体育
+http://140.207.241.2:8080/live/program/live/hdnba1/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",百事通体育
+http://140.207.241.2:8080/live/program/live/hdnba2/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",百事通体育
+http://140.207.241.2:8080/live/program/live/hdnba3/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",百事通体育
+http://140.207.241.2:8080/live/program/live/hdnba4/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",百事通体育
+http://140.207.241.2:8080/live/program/live/hdnba6/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海百事通联通",百事通体育
+http://140.207.241.2:8080/live/program/live/hdnba7/4000000/mnf.m3u8
+
+#EXTINF:-1 group-title="上海移动",CCTV1
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",CCTV2
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",CCTV3
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",CCTV4
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",CCTV5
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",CCTV5+
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",CCTV6
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",CCTV7
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=7050628689018054317&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",CCTV8
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",CCTV9
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",CCTV10
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=7019587760656900133&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",CCTV11
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",CCTV12
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=5325631075193490169&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",CCTV13
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",CCTV14
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=8203666801302077036&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",CCTV15
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",CCTV17
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",安徽卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=4774346722046993363&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",北京卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",东方卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",江苏卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004684&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",浙江卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",湖北卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",江西卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013731&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",湖南卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",广东卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028357&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",山东卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012807&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",深圳卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011645&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",重庆卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",辽宁卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024033&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",东南卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",黑龙江卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=8467838254824392379&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",贵州卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028689&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",天津卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001096&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",冬奥纪实
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028380&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",Newtv炫舞未来
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",Newtv魅惑潇湘
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",Newtv超级电视剧
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000008139&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",Newtv超级电影
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012884&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",Newtv超级体育
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009204&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",Newtv超级综艺
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",黑莓电竞
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003775&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="上海移动",纪实人文
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000010606&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+
+
+#EXTINF:-1 group-title="上海联通IPTV直播源",CCTV1
+http://140.207.241.3:8080/live/program/live/cctv1hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",CCTV3
+http://140.207.241.3:8080/live/program/live/cctv3hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",CCTV5
+http://140.207.241.3:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",CCTV5+
+http://140.207.241.3:8080/live/program/live/cctv5phd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",CCTV6
+http://140.207.241.3:8080/live/program/live/cctv6hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",CCTV8
+http://140.207.241.3:8080/live/program/live/cctv8hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",CCTV10
+http://140.207.241.3:8080/live/program/live/cctv10hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",CCTV14
+http://140.207.241.3:8080/live/program/live/cctvsehd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",东南卫视
+http://140.207.241.3:8080/live/program/live/dnwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",东方卫视
+http://140.207.241.3:8080/live/program/live/hddfws/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",北京卫视
+http://140.207.241.3:8080/live/program/live/bjwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",天津卫视
+http://140.207.241.3:8080/live/program/live/tjwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",安徽卫视
+http://140.207.241.3:8080/live/program/live/ahwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",山东卫视
+http://140.207.241.3:8080/live/program/live/sdwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",广东卫视
+http://140.207.241.3:8080/live/program/live/gdwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",江苏卫视
+http://140.207.241.3:8080/live/program/live/jswshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",江西卫视
+http://140.207.241.3:8080/live/program/live/jxwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",浙江卫视
+http://140.207.241.3:8080/live/program/live/zjwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",辽宁卫视
+http://140.207.241.3:8080/live/program/live/lnwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",深圳卫视
+http://140.207.241.3:8080/live/program/live/szwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",湖北卫视
+http://140.207.241.3:8080/live/program/live/hbwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",湖南卫视
+http://140.207.241.3:8080/live/program/live/hnwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",黑龙江卫视
+http://140.207.241.3:8080/live/program/live/hljwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV新视觉
+http://140.207.241.3:8080/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV动漫秀场
+http://140.207.241.3:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV游戏风云
+http://140.207.241.3:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV劲爆体育
+http://140.207.241.3:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV魅力足球
+http://140.207.241.3:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV欢笑剧场
+http://140.207.241.3:8080/live/program/live/hxjchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV极速汽车
+http://140.207.241.3:8080/live/program/live/jsqchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV生活时尚
+http://140.207.241.3:8080/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV全纪实
+http://140.207.241.3:8080/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV都市剧场
+http://140.207.241.3:8080/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV幸福彩
+http://140.207.241.3:8080/live/program/live/xfchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",上海ICS外语
+http://140.207.241.3:8080/live/program/live/wypdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",上海东方影视
+http://140.207.241.3:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",上海五星体育
+http://140.207.241.3:8080/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",上海第一财经
+http://140.207.241.3:8080/live/program/live/dycjhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",上海新闻综合
+http://140.207.241.3:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",上海纪实人文
+http://140.207.241.3:8080/live/program/live/jspdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",上海哈哈炫动
+http://140.207.241.3:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",上海都市
+http://140.207.241.3:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",百事通体育
+http://140.207.241.3:8080/live/program/live/hdnba5/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",百事通体育
+http://140.207.241.3:8080/live/program/live/hdnba1/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",百事通体育
+http://140.207.241.3:8080/live/program/live/hdnba2/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",百事通体育
+http://140.207.241.3:8080/live/program/live/hdnba3/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",百事通体育
+http://140.207.241.3:8080/live/program/live/hdnba4/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",百事通体育
+http://140.207.241.3:8080/live/program/live/hdnba6/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",百事通体育
+http://140.207.241.3:8080/live/program/live/hdnba7/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",CCTV1
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv1hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",CCTV3
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv3hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",CCTV5
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",CCTV5+
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv5phd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",CCTV6
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv6hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",CCTV8
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv8hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",CCTV10
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv10hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",CCTV14
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctvsehd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",上海ICS外语
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/wypdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",上海东方影视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",上海五星体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",上海第一财经
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dycjhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",上海新闻综合
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",上海纪实人文
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jspdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",上海哈哈炫动
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",上海都市
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",东南卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dnwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",东方卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hddfws/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",北京卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/bjwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",天津卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/tjwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",安徽卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ahwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",山东卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/sdwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",广东卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/gdwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",江苏卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jswshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",江西卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jxwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",浙江卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/zjwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",辽宁卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/lnwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",深圳卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/szwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",湖北卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hbwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",湖南卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hnwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",黑龙江卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hljwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV新视觉
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV动漫秀场
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV游戏风云
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV劲爆体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV魅力足球
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV欢笑剧场
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hxjchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV极速汽车
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV生活时尚
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV全纪实
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV都市剧场
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV幸福彩
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xfchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",百事通体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba5/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",百事通体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba1/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",百事通体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba2/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",百事通体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba3/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",百事通体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba4/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",百事通体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba6/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",百事通体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba7/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",CCTV1
+http://183.207.255.188/live/program/live/cctv1hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",CCTV3
+http://183.207.255.188/live/program/live/cctv3hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",CCTV5
+http://183.207.255.188/live/program/live/cctv5hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",CCTV5+
+http://183.207.255.188/live/program/live/cctv5phd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",CCTV6
+http://183.207.255.188/live/program/live/cctv6hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",CCTV8
+http://183.207.255.188/live/program/live/cctv8hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",CCTV10
+http://183.207.255.188/live/program/live/cctv10hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",CCTV14
+http://183.207.255.188/live/program/live/cctvsehd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",上海ICS外语
+http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",上海东方影视
+http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",上海五星体育
+http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",上海第一财经
+http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",上海新闻综合
+http://183.207.255.188/live/program/live/xwzhhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",上海纪实人文
+http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",上海哈哈炫动
+http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",上海都市
+http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",东南卫视
+http://183.207.255.188/live/program/live/dnwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",东方卫视
+http://183.207.255.188/live/program/live/hddfws/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",北京卫视
+http://183.207.255.188/live/program/live/bjwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",天津卫视
+http://183.207.255.188/live/program/live/tjwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",安徽卫视
+http://183.207.255.188/live/program/live/ahwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",山东卫视
+http://183.207.255.188/live/program/live/sdwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",广东卫视
+http://183.207.255.188/live/program/live/gdwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",江苏卫视
+http://183.207.255.188/live/program/live/jswshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",江西卫视
+http://183.207.255.188/live/program/live/jxwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",浙江卫视
+http://183.207.255.188/live/program/live/zjwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",辽宁卫视
+http://183.207.255.188/live/program/live/lnwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",深圳卫视
+http://183.207.255.188/live/program/live/szwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",湖北卫视
+http://183.207.255.188/live/program/live/hbwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",湖南卫视
+http://183.207.255.188/live/program/live/hnwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",黑龙江卫视
+http://183.207.255.188/live/program/live/hljwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV新视觉
+http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV动漫秀场
+http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV游戏风云
+http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV劲爆体育
+http://183.207.255.188/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV魅力足球
+http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV欢笑剧场
+http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV极速汽车
+http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV生活时尚
+http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV全纪实
+http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV都市剧场
+http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",SiTV幸福彩
+http://183.207.255.188/live/program/live/xfchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",百事通体育
+http://183.207.255.188/live/program/live/hdnba5/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",百事通体育
+http://183.207.255.188/live/program/live/hdnba1/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",百事通体育
+http://183.207.255.188/live/program/live/hdnba2/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",百事通体育
+http://183.207.255.188/live/program/live/hdnba3/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",百事通体育
+http://183.207.255.188/live/program/live/hdnba4/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",百事通体育
+http://183.207.255.188/live/program/live/hdnba6/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海联通IPTV直播源",百事通体育
+http://183.207.255.188/live/program/live/hdnba7/4000000/mnf.m3u8
