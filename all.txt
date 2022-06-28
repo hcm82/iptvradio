@@ -382,7 +382,7 @@ DISCOVERY ASIA HD,https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/
 DISCOVERY CHANNEL HD,https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
 ANIMAX HD,https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
 NBC NEWS,https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
-FTV④,http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+FTV4,http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 Skynews,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 Bloomberg Quicktake (1080p),https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
 TRT World HD,https://tv-trtworld.live.trt.com.tr/master.m3u8
