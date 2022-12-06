@@ -11401,3 +11401,154 @@ http://117.135.56.6:6060/cms001/ch00000090990000001199/index.m3u8
 #EXTINF:-1 group-title="sh-mobile-iptv",全纪实HD
 http://117.135.56.6:6060/cms001/ch00000090990000001200/index.m3u8
 
+#EXTINF:180 group-title="上海移动电视",新闻综合HD
+#EXTVLCOPT:network-caching=1000
+http://117.135.56.6:6060/cms001/ch00000090990000001014/index.m3u8
+#EXTINF:180 group-title="上海移动电视",东方卫视HD
+#EXTVLCOPT:network-caching=1000
+http://117.135.56.6:6060/cms001/ch00000090990000001013/index.m3u8
+#EXTINF:180 group-title="上海移动电视",8M-HD-娱乐频道HD
+#EXTVLCOPT:network-caching=1000
+http://117.135.56.6:6060/cms001/ch00000090990000001015/index.m3u8
+#EXTINF:180 group-title="上海移动电视",8M-HD-纪实频道HD
+#EXTVLCOPT:network-caching=1000
+http://117.135.56.6:6060/cms001/ch00000090990000001019/index.m3u8
+#EXTINF:180 group-title="上海移动电视",8M-HD-电视剧频道HD
+#EXTVLCOPT:network-caching=1000
+http://117.135.56.6:6060/cms001/ch00000090990000001016/index.m3u8
+#EXTINF:180 group-title="上海移动电视",8M-HD-第一财经HD
+#EXTVLCOPT:network-caching=1000
+http://117.135.56.6:6060/cms001/ch00000090990000001017/index.m3u8
+#EXTINF:180 group-title="上海移动电视",8M-HD-五星体育HD
+#EXTVLCOPT:network-caching=1000
+http://117.135.56.6:6060/cms001/ch00000090990000001018/index.m3u8
+#EXTINF:180 group-title="上海移动电视",8M-HD-ICS-HD
+http://117.135.56.6:6060/cms001/ch00000090990000001128/index.m3u8
+#EXTINF:180 group-title="上海移动电视",8M-HD-上海教育
+http://117.135.56.6:6060/cms001/ch00000090990000001053/index.m3u8
+#EXTINF:180 group-title="上海移动电视",CCTV-1HD
+http://117.135.56.6:6060/cms001/ch00000090990000001022/index.m3u8
+#EXTINF:180 group-title="上海移动电视",CCTV-2HD
+http://117.135.56.6:6060/cms001/ch00000090990000001012/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-CCTV-3HD
+http://117.135.56.6:6060/cms001/ch00000090990000001186/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-CCTV-4HD
+http://117.135.56.6:6060/cms001/ch00000090990000001011/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-CCTV-5HD
+http://117.135.56.6:6060/cms001/ch00000090990000001187/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-CCTV-6HD
+http://117.135.56.6:6060/cms001/ch00000090990000001188/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-CCTV-7HD
+http://117.135.56.6:6060/cms001/ch00000090990000001010/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-CCTV-8HD
+http://117.135.56.6:6060/cms001/ch00000090990000001189/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-CCTV-13HD
+http://117.135.56.6:6060/cms001/ch00000090990000001061/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-北京卫视HD
+http://117.135.56.6:6060/cms001/ch00000090990000001029/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-江苏卫视HD
+http://117.135.56.6:6060/cms001/ch00000090990000001033/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-浙江卫视HD
+http://117.135.56.6:6060/cms001/ch00000090990000001023/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-湖南卫视HD
+http://117.135.56.6:6060/cms001/ch00000090990000001026/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-山东卫视HD
+http://117.135.56.6:6060/cms001/ch00000090990000001028/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-黑龙江卫视HD
+http://117.135.56.6:6060/cms001/ch00000090990000001031/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-安徽卫视HD
+http://117.135.56.6:6060/cms001/ch00000090990000001037/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-天津卫视HD
+http://117.135.56.6:6060/cms001/ch00000090990000001036/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-江西卫视HD
+http://117.135.56.6:6060/cms001/ch00000090990000001034/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-辽宁卫视HD
+http://117.135.56.6:6060/cms001/ch00000090990000001035/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-湖北卫视HD
+http://117.135.56.6:6060/cms001/ch00000090990000001027/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-广东卫视HD
+http://117.135.56.6:6060/cms001/ch00000090990000001032/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-深圳卫视HD
+http://117.135.56.6:6060/cms001/ch00000090990000001030/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-东南卫视HD
+http://117.135.56.6:6060/cms001/ch00000090990000001201/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-四川卫视HD
+http://117.135.56.6:6060/cms001/ch00000090990000001130/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-重庆卫视HD
+http://117.135.56.6:6060/cms001/ch00000090990000001129/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-贵州卫视HD
+http://117.135.56.6:6060/cms001/ch00000090990000001184/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-海南卫视HD
+http://117.135.56.6:6060/cms001/ch00000090990000001183/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-河北卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001081/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-内蒙古卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001068/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-河南卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001073/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-山西卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001070/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-陕西卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001067/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-甘肃卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001069/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-青海卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001082/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-云南卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001094/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-广西卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001095/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-宁夏卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001074/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-新疆卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001065/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-西藏卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001072/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-吉林卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001077/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-兵团卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001066/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-三沙卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001185/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-山东卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001093/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-安徽卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001085/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-天津卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001079/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-江西卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001080/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-辽宁卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001084/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-湖北卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001083/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-广东卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001075/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-深圳卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001096/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-东南卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001092/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-四川卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001091/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-重庆卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001087/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-贵州卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001071/index.m3u8
+#EXTINF:180 group-title="上海移动电视",DushijuchangHD
+http://117.135.56.6:6060/cms001/ch00000090990000001203/index.m3u8
+#EXTINF:180 group-title="上海移动电视",HuanxiaojuchangHD
+http://117.135.56.6:6060/cms001/ch00000090990000001193/index.m3u8
+#EXTINF:180 group-title="上海移动电视",JinsepindaoHD
+http://117.135.56.6:6060/cms001/ch00000090990000001194/index.m3u8
+#EXTINF:180 group-title="上海移动电视",2.5M-法制天地
+http://117.135.56.6:6060/cms001/ch00000090990000001195/index.m3u8
+#EXTINF:180 group-title="上海移动电视",DongmanxiuchangHD
+http://117.135.56.6:6060/cms001/ch00000090990000001196/index.m3u8
+#EXTINF:180 group-title="上海移动电视",YouxifengyunHD
+http://117.135.56.6:6060/cms001/ch00000090990000001192/index.m3u8
+#EXTINF:180 group-title="上海移动电视",ShenghuoshishangHD
+http://117.135.56.6:6060/cms001/ch00000090990000001199/index.m3u8
+#EXTINF:180 group-title="上海移动电视",QuanjishiHD
+http://117.135.56.6:6060/cms001/ch00000090990000001200/index.m3u8
+#EXTINF:180 group-title="上海移动电视",JisuqicheHD
+http://117.135.56.6:6060/cms001/ch00000090990000001191/index.m3u8
